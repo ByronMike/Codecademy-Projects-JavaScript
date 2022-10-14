@@ -59,7 +59,7 @@ The other practical works and exercises proposed during the lessons are not ment
 	- [JS Classes II]....................................................24-School-Catalogue
 	- [ES6 Modules]..................................................25-WorkAround-Explorer
 
-Notes* : to be completed.
+Notes* : to be completed. \
 Notes** : not JS projects but integrated in the teaching process.
 
 ## Technologies
