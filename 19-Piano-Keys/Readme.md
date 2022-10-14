@@ -1,7 +1,7 @@
-# JS Data and Variables - Kelvin Weather
+# DOM Events - Piano Keys
 
-Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
-- [Online page - Codepen](https://codepen.io/ByronMike/pen/BaxMgox)
+Create an interactive game to help beginner-level piano students to study. Create a piano player with DOM events in JavaScript!
+- [Online page - Codepen](https://codepen.io/ByronMike/pen/JjvzREp)
 
 ## Table of content
 1. [General information](#General-information)
@@ -13,12 +13,10 @@ Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
 ## General information
 
 Codecademy instructions :
-> Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction. Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin. \
-\
-With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit. For example, 283 K converts to 10 °C which converts to 50 °F.
+> You’re a web developer who has been hired by a music education company. This client wants you to create an interactive game to help their beginner-level piano students study. Create a piano player with DOM events in JavaScript!
 
 Illustration:
-![Picture](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
+![Picture](./resources/Illustration_Piano_Keys.PNG)
 
 ## Technologies
 **Tools:**
@@ -34,7 +32,7 @@ Illustration:
 2. Open the command line in the same directory as the index.js script you created (use VS Code to do this automatically with the integrated terminal).
 
 ## Status
-:heavy_check_mark: This project was validated on Septembre 1, 2022.
+:heavy_check_mark: This project was validated on Septembre 26, 2022.
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)

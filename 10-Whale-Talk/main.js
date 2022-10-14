@@ -23,7 +23,7 @@ for (let j = 0; j < vowels.length; j++ ){
  }
 }
   
- 
- 
+
+
 
 console.log(resultArray.join('').toLowerCase());

@@ -1,7 +1,7 @@
-# JS Data and Variables - Kelvin Weather
+# JS Classes II - School Catalogue
 
-Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
-- [Online page - Codepen](https://codepen.io/ByronMike/pen/BaxMgox)
+Create a digital school catalog for the New York City Department of Education.
+- [Online page - Codepen](https://codepen.io/ByronMike/pen/ExLMNYp)
 
 ## Table of content
 1. [General information](#General-information)
@@ -13,12 +13,32 @@ Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
 ## General information
 
 Codecademy instructions :
-> Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction. Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin. \
-\
-With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit. For example, 283 K converts to 10 °C which converts to 50 °F.
-
-Illustration:
-![Picture](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
+> Let’s put your knowledge of classes to the test by creating a digital school catalog for the New York City Department of Education. The Department of Education wants the catalog to hold quick reference material for each school in the city.
+> 
+> We need to create classes for primary and high schools. Because these classes share properties and methods, each will inherit from a parent  `School`  class. Our parent and three child classes have the following properties, getters, setters, and methods:
+> 
+> #### School
+> 
+> -   **Properties**:  `name`  (string),  `level`  (one of three strings:  `'primary'`,  `'middle'`, or  `'high'`), and  `numberOfStudents`  (number)
+> -   **Getters**: all properties have getters
+> -   **Setters**: the  `numberOfStudents`  property has a setter
+> -   **Methods**:  `.quickFacts()`  and  `.pickSubstituteTeacher()`  (this is a static method)
+> 
+> #### Primary
+> 
+> -   Includes everything in the  `School`  class, plus one additional property
+> -   **Properties**:  `pickupPolicy`  (string)
+> 
+> #### Middle
+> 
+> -   Does not include any additional properties or methods
+> 
+> #### High
+> 
+> -   Includes everything in the  `School`  class, plus one additional property
+> -   **Properties**:  `sportsTeams`  (array of strings)
+> 
+> If you’re looking for a challenge, create the  `constructor()`  and getters for the four classes above. Then, use the setter and methods specifications in steps five, six, and seven to finish the project.
 
 ## Technologies
 **Tools:**
@@ -34,7 +54,7 @@ Illustration:
 2. Open the command line in the same directory as the index.js script you created (use VS Code to do this automatically with the integrated terminal).
 
 ## Status
-:heavy_check_mark: This project was validated on Septembre 1, 2022.
+:heavy_check_mark: This project was validated on October 3, 2022.
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)

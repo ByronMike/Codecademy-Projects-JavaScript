@@ -1,7 +1,8 @@
-# JS Data and Variables - Kelvin Weather
+# ES6 Modules - WorkAround Explorer
 
-Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
-- [Online page - Codepen](https://codepen.io/ByronMike/pen/BaxMgox)
+Help front-end developers by using your  `import`  and  `export`  expertise.
+- [Online page - Codepen](https://codepen.io/ByronMike/pen/eYrXBNM)
+WARNING : Use the "Go live" function of VSCode to launch this program !!!
 
 ## Table of content
 1. [General information](#General-information)
@@ -13,12 +14,18 @@ Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
 ## General information
 
 Codecademy instructions :
-> Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction. Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin. \
-\
-With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit. For example, 283 K converts to 10 °C which converts to 50 °F.
-
-Illustration:
-![Picture](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
+> WorkAround is a research organization that provides data on salary trends in the tech industry. Open up  **salaryData.js**  to see the data they have collected. You’ll notice that they have also created a few functions for filtering that data to get subsets of data by role and by company.
+> 
+> WorkAround now wants to release a new web application called WorkAround Explorer to make their data more easily viewable. This web app should allow users to choose specific roles and companies in the tech industry to see the following information:
+> 
+> -   The salary for the chosen role at the chosen company.
+> -   The industry average for the chosen role.
+> -   The average salary at the chosen company across all roles.
+> -   The industry average salary across all roles and all companies.
+> 
+> ![After the user selects a role from the first column and a company from the second, the relevant data is shown in the third column](https://static-assets.codecademy.com/Courses/Learn-JavaScript/Modules/WorkAround%20Explorer%20Demo.gif)
+> 
+> Much of the user interface has already been designed by front-end developers, however, the core data and functionality are either missing or need to be connected together using modules. Your task is to help your team members out by using your  `import`  and  `export`  expertise!
 
 ## Technologies
 **Tools:**
@@ -27,14 +34,13 @@ Illustration:
  * Site hosting : **GITHUB**
   
 **Languages :**
- * Web : **JS**
+ * Web : **(HTML)**, **(CSS)**, **JS**
  
 ## Setup
-1. Install Node.js
-2. Open the command line in the same directory as the index.js script you created (use VS Code to do this automatically with the integrated terminal).
+Download zip files from GitHub and open index.html file in local browser to view webpage.
 
 ## Status
-:heavy_check_mark: This project was validated on Septembre 1, 2022.
+:heavy_check_mark: This project was validated on Septembre 6, 2022.
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)

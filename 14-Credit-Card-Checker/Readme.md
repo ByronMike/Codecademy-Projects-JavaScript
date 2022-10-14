@@ -1,7 +1,7 @@
-# JS Data and Variables - Kelvin Weather
+# JS Challenge Project - Credit Card Checker
 
-Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
-- [Online page - Codepen](https://codepen.io/ByronMike/pen/BaxMgox)
+Optimize the verification process of credit card checking process using your knowledge of functions and loops to handle multiple credit cards at a time.
+- [Online page - Codepen](https://codepen.io/ByronMike/pen/OJZqXzw)
 
 ## Table of content
 1. [General information](#General-information)
@@ -13,12 +13,17 @@ Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
 ## General information
 
 Codecademy instructions :
-> Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction. Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin. \
-\
-With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit. For example, 283 K converts to 10 °C which converts to 50 °F.
-
-Illustration:
-![Picture](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
+> Overview
+This project is slightly different than others you have encountered thus far on Codecademy. Instead of a step-by-step tutorial, this project contains a series of open-ended requirements which describe the project you’ll be building. There are many possible ways to correctly fulfill all of these requirements, and you should expect to use the internet, Codecademy, and other resources when you encounter a problem that you cannot easily solve.
+>
+Project Goals
+> ### Context: 
+> The company that you work for suspects that credit card distributors have been mailing out cards that have invalid numbers. In this project, you have the role of a clerk who checks if credit cards are valid. Every other clerk currently checks using pencil and paper, but you’ll be optimizing the verification process using your knowledge of functions and loops to handle multiple credit cards at a time. Unlike the other clerks, you can spend the rest of your time relaxing!
+>
+>As you progress through the steps, use the terminal and console.log() statements to check the output of your loops and functions.
+>
+> ### Setup Instructions
+> If you choose to do this project on your computer instead of Codecademy, you can download what you’ll need by clicking the “Download” button below. You’ll need to open and work in main.js in a text editor. To edit main.js, use your text editor of choice. If you need a recommendation or help to install an editor, we recommend looking into our article about setting up a text editor for web development (Follow along until you get to the section: “Practice: Let’s Make a Project”). To run main.js on your computer, you will need to install Node.js. If you need help installing Node.js, read our article on installing Node.
 
 ## Technologies
 **Tools:**
@@ -34,7 +39,7 @@ Illustration:
 2. Open the command line in the same directory as the index.js script you created (use VS Code to do this automatically with the integrated terminal).
 
 ## Status
-:heavy_check_mark: This project was validated on Septembre 1, 2022.
+:heavy_check_mark: This project was validated on Septembre 22, 2022.
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)

@@ -1,7 +1,7 @@
-# JS Data and Variables - Kelvin Weather
+# JS Loops - Whale Talk
 
-Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
-- [Online page - Codepen](https://codepen.io/ByronMike/pen/BaxMgox)
+Create a JS program to translate a phrase into its "whale talk" equivalent.
+- [Online page - Codepen](https://codepen.io/ByronMike/pen/YzLgWWV)
 
 ## Table of content
 1. [General information](#General-information)
@@ -13,12 +13,15 @@ Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
 ## General information
 
 Codecademy instructions :
-> Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction. Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin. \
-\
-With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit. For example, 283 K converts to 10 °C which converts to 50 °F.
-
-Illustration:
-![Picture](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
+> Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.
+>
+> There are a few simple rules for translating text to whale language:
+>
+> 1. There are no consonants. Only vowels excluding “y”.
+> 2. The u‘s and e‘s are extra long, so we must double them in our program.
+> Once we have converted text to the whale language, the result is sung slowly, as is a custom in the ocean.
+>
+> To accomplish this translation, we can use our knowledge of loops. Let’s get started!
 
 ## Technologies
 **Tools:**
@@ -34,7 +37,7 @@ Illustration:
 2. Open the command line in the same directory as the index.js script you created (use VS Code to do this automatically with the integrated terminal).
 
 ## Status
-:heavy_check_mark: This project was validated on Septembre 1, 2022.
+:heavy_check_mark: This project was validated on Septembre 16, 2022.
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)

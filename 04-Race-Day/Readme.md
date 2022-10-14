@@ -1,7 +1,7 @@
-# JS Data and Variables - Kelvin Weather
+# JS Flow Control (If) - Race Day
 
-Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
-- [Online page - Codepen](https://codepen.io/ByronMike/pen/BaxMgox)
+Write a program that will register runners for the race and give them instructions on race day.
+- [Online page - Codepen](https://codepen.io/ByronMike/pen/ZEoPQry)
 
 ## Table of content
 1. [General information](#General-information)
@@ -13,12 +13,26 @@ Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
 ## General information
 
 Codecademy instructions :
-> Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction. Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin. \
-\
-With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit. For example, 283 K converts to 10 °C which converts to 50 °F.
-
-Illustration:
-![Picture](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
+> Codecademy’s annual race is just around the corner! This year, we have a lot of participants. You have been hired to write a program that will register runners for the race and give them instructions on race day.
+>
+>As a timeline, registration would look like this:
+>
+> ![enter image description here](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-control-flow/race-day/raceday-timeline.svg)
+>
+>Here’s how our registration works. There are adult runners (over 18 years of age) and youth runners (under 18 years of age). They can register early or late. Runners are assigned a race number and start time based on their age and registration.
+>
+>Race number:
+>
+> -   Early adults receive a race number at or above 1000.
+> -   All others receive a number below 1000.
+>
+> Start time:
+> -   Adult registrants run at 9:30 am or 11:00 am.
+	>     -   Early adults run at 9:30 am.
+	>   	-   Late adults run at 11:00 am.
+>	-   Youth registrants run at 12:30 pm (regardless of registration).
+>
+> But we didn’t plan for runners that are exactly 18! We’ll handle that by the end of the project.
 
 ## Technologies
 **Tools:**
@@ -34,7 +48,7 @@ Illustration:
 2. Open the command line in the same directory as the index.js script you created (use VS Code to do this automatically with the integrated terminal).
 
 ## Status
-:heavy_check_mark: This project was validated on Septembre 1, 2022.
+:heavy_check_mark: This project was validated on Septembre 7, 2022.
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)

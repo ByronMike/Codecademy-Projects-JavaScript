@@ -1,7 +1,7 @@
-# JS Data and Variables - Kelvin Weather
+# JS Flow Control (Switch) - Magic Eight Ball
 
-Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
-- [Online page - Codepen](https://codepen.io/ByronMike/pen/BaxMgox)
+Build a Magic Eight Ball using control flow in JavaScript.
+- [Online page - Codepen](https://codepen.io/ByronMike/pen/rNvROXM)
 
 ## Table of content
 1. [General information](#General-information)
@@ -13,12 +13,9 @@ Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
 ## General information
 
 Codecademy instructions :
-> Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction. Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin. \
-\
-With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit. For example, 283 K converts to 10 °C which converts to 50 °F.
-
-Illustration:
-![Picture](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
+> You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune.
+>
+> In this project we will build a Magic Eight Ball using control flow in JavaScript. The user will be able to input a question, then our program will output a random fortune.
 
 ## Technologies
 **Tools:**
@@ -34,7 +31,7 @@ Illustration:
 2. Open the command line in the same directory as the index.js script you created (use VS Code to do this automatically with the integrated terminal).
 
 ## Status
-:heavy_check_mark: This project was validated on Septembre 1, 2022.
+:heavy_check_mark: This project was validated on Septembre 5, 2022.
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)

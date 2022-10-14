@@ -1,7 +1,7 @@
-# JS Data and Variables - Kelvin Weather
+# JS Challenge Project - Is The Dinner Vegan
 
-Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
-- [Online page - Codepen](https://codepen.io/ByronMike/pen/BaxMgox)
+Write a function isTheDinnerVegan() that takes in an array of food objects and returns a boolean value based on whether or not every item in the array has entirely plant-based origins.
+- [Online page - Codepen](https://codepen.io/ByronMike/pen/poVYEzJ)
 
 ## Table of content
 1. [General information](#General-information)
@@ -13,12 +13,15 @@ Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
 ## General information
 
 Codecademy instructions :
-> Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction. Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin. \
-\
-With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit. For example, 283 K converts to 10 °C which converts to 50 °F.
-
-Illustration:
-![Picture](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
+> Write a function isTheDinnerVegan() that takes in an array of food objects in the format:
+> `{name: 'cabbage', source: 'plant' }`
+> and returns a boolean value based on whether or not every item in the array has entirely plant-based origins.
+>
+> `const meal = [{name: 'arugula', source: 'plant'}, {name: 'tomatoes', source: 'plant'}, {name: 'lemon', source:'plant'}, {name: 'olive oil', source: 'plant'}];`
+> 
+> `isTheDinnerVegan(meal); // Should return true`
+>
+> You can test your function when you’re ready by passing in the dinner array or by making your own!
 
 ## Technologies
 **Tools:**
@@ -34,7 +37,7 @@ Illustration:
 2. Open the command line in the same directory as the index.js script you created (use VS Code to do this automatically with the integrated terminal).
 
 ## Status
-:heavy_check_mark: This project was validated on Septembre 1, 2022.
+:heavy_check_mark: This project was validated on Septembre 24, 2022.
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)

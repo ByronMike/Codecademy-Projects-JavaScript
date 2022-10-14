@@ -1,7 +1,7 @@
-# JS Data and Variables - Kelvin Weather
+# HTML Form - Form a Story
 
-Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
-- [Online page - Codepen](https://codepen.io/ByronMike/pen/BaxMgox)
+Create a basic HTML form.
+- [Online page - Codepen](https://codepen.io/ByronMike/pen/rNvRMww)
 
 ## Table of content
 1. [General information](#General-information)
@@ -13,12 +13,13 @@ Create a JS program to convert Kelvin to Celsius, then to Fahrenheit.
 ## General information
 
 Codecademy instructions :
-> Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction. Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin. \
-\
-With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit. For example, 283 K converts to 10 °C which converts to 50 °F.
-
-Illustration:
-![Picture](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
+> Forms are great for collecting information on users, like job applications or insightful surveys. However, we can also stretch our creative muscles and have a little fun with forms. For this project, we’ll use our knowledge of the HTML `<form>` and grab user input to put a spin on a classic story!
+>
+> The logic for parsing and inserting of user inputs is already taken care of in main.js using JavaScript . We’ve also added some styling to the page in style.css. You can find these files by click on the folder icon located at the top of the code editor and selecting the files you’re interested in.
+>
+> What you have to do is now make a `<form>` capable of collecting the correct information so that the newly crafted story makes sense!
+>
+> Note: Save your code as you follow the steps to see your progress!
 
 ## Technologies
 **Tools:**
@@ -27,14 +28,13 @@ Illustration:
  * Site hosting : **GITHUB**
   
 **Languages :**
- * Web : **JS**
+ * Web : **HTML**, **(CSS)**
  
 ## Setup
-1. Install Node.js
-2. Open the command line in the same directory as the index.js script you created (use VS Code to do this automatically with the integrated terminal).
+Download zip files from GitHub and open index.html file in local browser to view webpage.
 
 ## Status
-:heavy_check_mark: This project was validated on Septembre 1, 2022.
+:heavy_check_mark: This project was validated on Septembre 27, 2022.
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)
