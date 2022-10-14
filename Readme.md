@@ -27,37 +27,37 @@ The other practical works and exercises proposed during the lessons are not ment
 > Build interactive sites using JavaScript and host it on a remote GitHub repository.
 
 1. JavaScript Syntax, Part I
-	- [Data and Variables].................01-Kelvin-Weather
-	- [Built-in Methods]...........02-Dog-Years
-	- [Flow Control - Switch].............03-Magic-Eight-Ball
-    - [Flow Control - If]..................04-Race-Day
-    - [Functions - JS Functions].............05-Sleep-Debt-Calculator
+	- [Data and Variables].......................................01-Kelvin-Weather
+	- [Built-in Methods]...........................................02-Dog-Years
+	- [Flow Control - Switch]..................................03-Magic-Eight-Ball
+    - [Flow Control - If]............................................04-Race-Day
+    - [Functions - JS Functions]............................05-Sleep-Debt-Calculator
 	- [Functions - ES6 Arrow Function].............06-Rock-Paper-Scissors
-	- [JS Scope].............07-Training-Days
-	- [Challenge Project].............08-Number-Guesser
+	- [JS Scope]...........................................................07-Training-Days
+	- [Challenge Project].........................................08-Number-Guesser
 2. JavaScript Syntax, Part II
-	- [JS Arrays]...............09-Secret-Message
-	- [JS Loops]..........10-Whale-Talk
-	- [Objects - Methods].............11-Meal-Maker
-    - [Objects - Data Structure]..................12-Team-Stats
-	- [JS Iterators]..................13-Grammar-Checker
-	- [Challenge Project]..................14-Credit-Card-Checker
-	- [Challenge Project]..................15-Mysterious-Organism
-	- [Challenge Project]..................16-Is-The-Dinner-Vegan
-	- [Challenge Project]..................17-Dog-Factory
+	- [JS Arrays]..........................................................09-Secret-Message
+	- [JS Loops]..........................................................10-Whale-Talk
+	- [Objects - Methods]......................................11-Meal-Maker
+    - [Objects - Data Structure]...........................12-Team-Stats
+	- [JS Iterators]......................................................13-Grammar-Checker
+	- [Challenge Project]........................................14-Credit-Card-Checker
+	- [Challenge Project]........................................15-Mysterious-Organism
+	- [Challenge Project]........................................16-Is-The-Dinner-Vegan
+	- [Challenge Project]........................................17-Dog-Factory
 3. Portfolio Project: JavaScript Syntax
-	- [Challenge Project]..................18-Mixed-Message*
+	- [Challenge Project]........................................18-Mixed-Message*
 4. Building Interactive Websites
-	- [DOM Events]...............19-Piano-Keys
-	- [HTML Form]...............20-Form-a-Story**
+	- [DOM Events]..................................................19-Piano-Keys
+	- [HTML Form]....................................................20-Form-a-Story**
 5. Portfolio Project: Personal Portfolio Website
-	- [Portfolio Project]....................21-Personal-Portfolio-Website	
+	- [Portfolio Project]...........................................21-Personal-Portfolio-Website	
 6. Making a Website Accessible
-	- [Web Accessibility]...............22-Design-Accessibility**
+	- [Web Accessibility].........................................22-Design-Accessibility**
 7. JavaScript Syntax, Part III
-	- [JS Classes I]...............23-Build-Library
-	- [JS Classes II]...............24-School-Catalogue
-	- [ES6 Modules]...............25-WorkAround-Explorer
+	- [JS Classes I].....................................................23-Build-Library
+	- [JS Classes II]....................................................24-School-Catalogue
+	- [ES6 Modules]..................................................25-WorkAround-Explorer
 
 Notes* : to be completed.
 Notes** : not JS projects but integrated in the teaching process.
